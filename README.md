@@ -12,3 +12,7 @@ The Calculator project implements a basic calculator with arithmetic operations.
    - Enter two numbers
    - Choose an operation (addition, subtraction, multiplication, division)
    - View the result of the calculation
+
+## Author
+Bibek Bhandari
+GitHub:https://github.com/abhinavbibek
